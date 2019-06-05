@@ -29,11 +29,11 @@ For anyone who manages multiple pages and does not have the time to hover over e
     setTimeout(() => {
         a.click();
         run();
-    }, 250);
+    }, 100);
 })();
 ```
 
 
 ### Note
 1. This will be in a separate file in this repo. This Readme may not always get updated to the latest version.
-2. If your internet is not fast enough, your script may finish before new elements are loaded on the page. In this case, increase time in milliseconds (currently `250`) in the `setTimeout()`.
+2. If your internet is not fast enough, your script may finish before new elements are loaded on the page. In this case, increase time in milliseconds (currently `100`) in the `setTimeout()`.
