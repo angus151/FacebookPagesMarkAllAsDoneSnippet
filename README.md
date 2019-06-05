@@ -1,7 +1,11 @@
-# Facebook Pages Mark-all-as-Done Snippet
+# Facebook Pages Power User Scripts
 
+A collection of scripts to make life easier managing Facebook Pages.
+
+---
+
+# Mark-all-as-Done Snippet
 A Chrome snippet to mark all messages and notifications in Facebook Pages Inbox as done.
-
 
 For anyone who manages multiple pages and does not have the time to hover over each message or notification spamming clicking to clear the queue.
 
