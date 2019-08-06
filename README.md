@@ -9,6 +9,11 @@ A Chrome snippet to mark all messages and notifications in Facebook Pages Inbox 
 
 For anyone who manages multiple pages and does not have the time to hover over each message or notification spamming clicking to clear the queue.
 
+### Chrome Web Store Detailed Description
+Currently, there is no way to mark all messages or "comments & more" notifications as 'done' in Facebook Pages Manager.
+
+This is a simple extension to cycle through the messages and notifications you see on the page and mark them all as done.
+
 ## Steps
 
 1. Open Inbox page in Chrome.
@@ -37,3 +42,8 @@ For anyone who manages multiple pages and does not have the time to hover over e
 ### Note
 1. This will be in a separate file in this repo. This Readme may not always get updated to the latest version.
 2. If your internet is not fast enough, your script may finish before new elements are loaded on the page. In this case, increase time in milliseconds (currently `100`) in the `setTimeout()`.
+
+## ChangeLog
+- 2019.08.06 
+  - Changed from semver versioning to calver (YYYY.MM.DD_MICRO)
+  - Changed Name of applicaiton after takedown from Facebook

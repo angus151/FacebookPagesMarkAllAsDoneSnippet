@@ -1,7 +1,7 @@
 {
-  "name": "Facebook Pages Inbox Mark as Done",
-  "short_name": "Mark as Done",
-  "version": "1.0",
+  "name": "Mark All As Done",
+  "short_name": "Mark All As Done",
+  "version": "2019.08.06",
   "description": "An extension to mark all messages and comment notifications as done inside your Facebook Pages Inbox.",
   "manifest_version": 2,
   "permissions": [
